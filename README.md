@@ -37,4 +37,4 @@ Key Insights
  Dashboard Preview
  <img width="1656" height="731" alt="image" src="https://github.com/user-attachments/assets/43a6b1a2-528c-4e32-ac16-f6e41c6baf62" />
  Conclusion
- This project represents an important stepping stone in my journey into data analytics, demonstrating how Excel can be effectively used to analyze data and generate valuable business insights.
+ This project strengthened my ability to convert raw data into actionable insights and present them through clear, business-oriented visual storytelling.
